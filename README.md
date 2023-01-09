@@ -6,6 +6,7 @@ About tab has connect wallet button as a test.
 Open Blog tab, enter random phrase to access content
 
 Objective:
+
 Crypto style Personal Blog
 	
 • https://codewithsadee.github.io/cryptex/ (With Connect Wallet)
@@ -21,11 +22,16 @@ Be able to blog post
 
 
 Functions
+
 	• Tipping (Incomplete)
+	
 	• Token Gated (Testing)
+	
 	• NFT Collection Display (Incomplete)
 
 Website Functions
+	
 	• Publications 
+	
 	• Projects
 	
