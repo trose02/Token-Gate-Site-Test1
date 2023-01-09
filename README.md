@@ -7,8 +7,10 @@ Open Blog tab, enter random phrase to access content
 
 Objective:
 Crypto style Personal Blog
-	• https://codewithsadee.github.io/cryptex/ (With Connect Wallet)
+	
+• https://codewithsadee.github.io/cryptex/ (With Connect Wallet)
 Requirements: 
+
 Tokengated 
 Dark style 
 Static Generated 
