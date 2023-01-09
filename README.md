@@ -15,7 +15,7 @@ Static Generated
 Post on a github
 Be able to host on netlify
 Be able to blog post
-![image](https://user-images.githubusercontent.com/89117396/211421618-06a5087d-69ba-4118-8177-3ada815a9423.png)
+
 
 Functions
 	• Tipping (Incomplete)
@@ -24,4 +24,5 @@ Functions
 
 Website Functions
 	• Publications 
-Projects![image](https://user-images.githubusercontent.com/89117396/211420704-d5ae6cd9-32b7-4721-acf1-2d8aa12dc754.png)
+	• Projects
+	
