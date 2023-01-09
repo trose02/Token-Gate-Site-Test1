@@ -9,6 +9,7 @@ Objective:
 Crypto style Personal Blog
 	
 • https://codewithsadee.github.io/cryptex/ (With Connect Wallet)
+
 Requirements: 
 
 Tokengated 
