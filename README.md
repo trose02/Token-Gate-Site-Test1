@@ -13,12 +13,17 @@ Crypto style Personal Blog
 
 Requirements: 
 
-Tokengated 
-Dark style 
-Static Generated 
-Post on a github
-Be able to host on netlify
-Be able to blog post
+	•Tokengated 
+	
+	•Dark style 
+	
+	•Static Generated 
+	
+	•Post on a github
+	
+	•Be able to host on netlify
+	
+	•Be able to blog post
 
 
 Functions
